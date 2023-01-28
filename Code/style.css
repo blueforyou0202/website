@@ -19,7 +19,6 @@ body {
   }
 
   #canvas {
-    background: white;
     position: absolute;
     top: 0;
     left: 0;
@@ -27,4 +26,5 @@ body {
     height: 100%;
     z-index: -1;
     }
+
 
